@@ -1,0 +1,33 @@
+# Masterbatch Co.
+
+> Technical reference for CaCO3 filler, black and white masterbatch used in PE and PP blown film, cast film, HDPE pipe, injection molding and woven sacks. Written for purchasing engineers in Southeast Asia, the Middle East and Africa. Content is specification-led: parameter tables with stated test conditions, typical ranges with their stated limits, and FAQ answering the questions buyers ask before requesting a sample.
+
+All numeric values published on this site are typical ranges for standard grades, not measured batch data. The technical datasheet (TDS) issued for the grade you order, and the batch-specific COA, take precedence over any figure on these pages. Confirm all specifications against those documents before ordering or quoting.
+
+## Products
+
+- [Product overview and side-by-side comparison](https://masterbatchco.com/products): Three product families compared on active content, carrier resin, MFI at a stated test condition, typical addition rate, main effect, primary process, packaging and minimum order.
+- [CaCO3 Filler Masterbatch](https://masterbatchco.com/products/caco3-filler-masterbatch): Full technical specification table, suitable and unsuitable applications, suggested addition rate by process, documentation explained, and FAQ on filler content, film strength, mesh size, food-contact grades, MOQ and lead time.
+- [Black Masterbatch](https://masterbatchco.com/products/black-masterbatch): Specifications and FAQ for carbon black grades used in HDPE pipe, conduit, film and injection molding.
+- [White Masterbatch](https://masterbatchco.com/products/white-masterbatch): Specifications and FAQ for TiO2 rutile grades used in packaging film, blow molding and sheet.
+
+## Technical notes: answers to buyer questions
+
+- [Why does filler masterbatch break film? 6 causes and fixes](https://masterbatchco.com/blog/why-filler-masterbatch-breaks-film): Diagnosing overdosing, wet granules, poor dispersion, carrier mismatch, screen blinding and low-temperature embrittlement from the visible symptom.
+- [How to choose CaCO3 filler masterbatch](https://masterbatchco.com/blog/how-to-choose-caco3-filler-masterbatch): Filler content 70-85% working range, mesh versus top cut in micrometres, matching PE versus PP carrier resin, stearic acid coating, and the four numbers to request on every TDS.
+- [CaCO3 filler masterbatch addition rate by process](https://masterbatchco.com/blog/caco3-filler-masterbatch-addition-rate): Typical addition rates for film, injection, pipe and woven sacks, practical ceilings, and the three factors that force a lower rate.
+- [How to read a masterbatch TDS: the 8 parameters that matter](https://masterbatchco.com/blog/how-to-read-masterbatch-tds): The datasheet lines that let you reject a grade without a trial, and six red flags for an incomplete document.
+- [Black masterbatch for HDPE pipe: carbon black content and dispersion](https://masterbatchco.com/blog/black-masterbatch-hdpe-pipe-carbon-black): How carbon black content and dispersion rating affect UV ageing and pressure tests, and why 2% versus 2.5% is not a trivial difference.
+- [White masterbatch yellowing: causes and how to specify TiO2 grade](https://masterbatchco.com/blog/white-masterbatch-yellowing-tio2-grade): Anatase versus rutile TiO2, sulphur sensitivity, thermal degradation, photo-yellowing, and four questions to ask suppliers.
+
+## Reference pages
+
+- [Applications](https://masterbatchco.com/applications): Grade selection by process and end use.
+- [Technical](https://masterbatchco.com/technical): Test methods, what TDS / COA / MSDS each mean, and quality terminology.
+- [Technical insights index](https://masterbatchco.com/blog/): All published articles.
+- [About](https://masterbatchco.com/about): How we work.
+- [Contact / request a quote](https://masterbatchco.com/contact): Enquiry form covering destination, product, carrier resin, process, estimated volume and specification questions.
+
+## Optional
+
+- [Home](https://masterbatchco.com/): Service summary.

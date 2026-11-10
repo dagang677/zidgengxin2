@@ -1,0 +1,11 @@
+# Cloudflare Pages _headers
+# Place this file at the ROOT of the build output directory (same level as index.html).
+#
+# Why it exists: Cloudflare normally serves .txt as text/plain automatically.
+# This file makes the Content-Type explicit, so a caching or rewrite rule can
+# never silently turn /llms.txt into an HTML page again.
+# robots.txt and sitemap.xml already return correct types - leave them alone.
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600

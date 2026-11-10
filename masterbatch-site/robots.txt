@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /
+
+# AI crawlers - explicitly allowed for GEO visibility
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# NOTE about DeepSeek (verified 2026-11-10):
+# DeepSeek publishes NO official crawler user-agent, IP range or robots.txt
+# token. Its Search / Fetch APIs do not identify themselves by a named UA.
+# "DeepSeekBot" is a third-party bot-directory label, not an official token;
+# a "User-agent: DeepSeekBot" rule matches nothing and is a no-op.
+# What actually lets DeepSeek reach this site is the "User-agent: *" group
+# above, plus the Cloudflare edge policy (Security > Bots > AI Crawl Control).
+# Do NOT add a DeepSeekBot block - it gives false confidence and changes nothing.
+
+# Machine-readable index for LLMs
+# llms.txt: https://masterbatchco.com/llms.txt
+
+Sitemap: https://masterbatchco.com/sitemap.xml
